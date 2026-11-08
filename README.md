@@ -1,4 +1,4 @@
-# William Odumosu
+# William O.
 
 Second-year BSc Mathematics at the University of Manchester. I build market-microstructure research tools, trading competition entries, and simulated markets, mostly in Python.
 
