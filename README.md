@@ -5,8 +5,6 @@ Second-year BSc Mathematics at the University of Manchester. I build trading res
 ## Experience
 
 - **Founder and President, Algorithmic Trading Society** (Jun 2026 – present): I grew the society to 200 members with Jane Street and TPP as sponsors, wrote its 17-week curriculum, and design the Algothon market models.
-- **Decoded: Data at Bloomberg** (Apr – Jun 2026): I won two EDA flash rounds and BPuzzled with team Encoded, and proposed a moving-average check to flag a broken trade feed.
-- **Stephen Lawrence Scholar, Freshfields** (Jun 2026 – present): I hold a multi-year £5,000 scholarship with assigned mentors at the Bank of England and Freshfields.
 - **FOCUS Programme, Jane Street** (Jan 2026): I proposed the revert that brought trading back about 24 minutes after the open in a live incident simulation.
 
 ## Featured Project
